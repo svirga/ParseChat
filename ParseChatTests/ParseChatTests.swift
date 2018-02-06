@@ -2,7 +2,7 @@
 //  ParseChatTests.swift
 //  ParseChatTests
 //
-//  Created by Simona Virga on 1/30/18.
+//  Created by Simona Virga on 2/1/18.
 //  Copyright © 2018 Simona Virga. All rights reserved.
 //
 
